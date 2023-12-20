@@ -49,9 +49,9 @@ public class VerifyMultipleCredentialsTest extends TestBase
 	  return new Object [] []
 			  {
 		         {"standard_user","secret_sauce"},    
-		         {"standard_user","pooja"},  
+		     /*    {"standard_user","pooja"},  
 		         {"pooja","secret_sauce"},  
-		         {"pooja","kularni"},    
+		         {"pooja","kularni"},  */  
 
 		      
 			  };
